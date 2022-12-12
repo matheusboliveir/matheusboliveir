@@ -11,10 +11,10 @@ Desenvolvedor Front-end, Vanilla JS is my passion.
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java">
 </div>
-<div align="center">
+<!--<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusboliveir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusboliveir&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+</div> -->
 
 <!--
 **matheusboliveir/matheusboliveir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
